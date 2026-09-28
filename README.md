@@ -26,6 +26,7 @@
 ---
 
 ### ✨ About Me
+- 🎓 Bachelor's in **Computer Science (Software Engineering)**
 - 💻 I love crafting **scalable web apps** with modern design.  
 - 🌍 Currently seeking **Remote Opportunities** worldwide.  
 - 📫 Reach me at: **jawaderfani147@gmail.com**  
